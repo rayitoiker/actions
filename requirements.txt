@@ -1,2 +1,2 @@
 requests
-panda=3.0.3
+pandas==3.0.3
