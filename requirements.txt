@@ -1,2 +1,2 @@
 requests
-pandas
+panda=3.0.3
